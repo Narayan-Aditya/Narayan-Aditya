@@ -18,9 +18,9 @@ I'm currently working on Andriod Project<br>I'm looking to collaborate on Andrio
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://imgflip.com/ai-meme" width="512px"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- ### 😂 Random Dev Meme
+<img src="https://imgflip.com/ai-meme" style= "width: auto;" /> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Narayan-Aditya&icon=9&color=1)](https://visitcount.itsvg.in)
