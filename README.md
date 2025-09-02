@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Andriod Project<br>I'm looking to collaborate on Andriod Developer<br>I'm looking for help with Android Developer<br>I'm currently learning BCA<br>Ask me about Android Dev ,CP ,Mathematics<br>Fun fact
+I'm currently working on Andriod Project<br>I'm looking to collaborate on Flutter Developer<br>I'm looking for help with Android Developer<br>I'm currently learning MCA<br>Ask me about Android Dev ,CP ,Mathematics<br>Fun fact
 
 
 ## 🌐 Socials:
